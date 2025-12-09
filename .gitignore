@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build output
+dist/
+build/
+
+# Coverage
+coverage/
+
+# IDE
+.idea/
+.vscode/
+
+# Cache
+.eslintcache
+.npm/
+
+# OS
+.DS_Store
+Thumbs.db
